@@ -16,7 +16,7 @@ Uma API com CRUD completo de partidas de futebol e funcionalidades para criaçã
 
 ---
 
-<p align=center>*Projeto desenvolvido 50% por mim ( Apenas o Backend, Frontend desenvolvido pela Trybe )*</p>
+<p align=center>*Projeto 50% autoral | apenas o Backend | Frontend desenvolvido pela Trybe*</p>
 
 ---
 
