@@ -5,6 +5,10 @@
 
 ---
 
+<p align=center>Projeto desenvolvido enquanto pessoa estudante da Trybe</p>
+
+---
+
 <br/>
 O Trybe Futebol Clube é um projeto de uma API para classificação de times e gerenciamento de partidas de futebol em um torneio fictício.
 <br/>
