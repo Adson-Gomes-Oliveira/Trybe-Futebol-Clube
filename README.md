@@ -40,8 +40,6 @@ git clone git@github.com:Adson-Gomes-Oliveira/Trybe-Futebol-Clube.git
 
 >Utilize `npm run dev` para iniciar o servidor do projeto localmente.
 
->Dentro do diretório do projeto existe um script SQL para dar criar ao banco de dados.
-
 </details>
 <details>
 <summary> Como rodar o projeto utilizando Docker </summary>
